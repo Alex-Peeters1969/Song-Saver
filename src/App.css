@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+.inputText {
+  display: grid;
+  background-color: rgb(247, 124, 102);
+  margin: 5px 40px 5px 40px;
+  font-size: 10px;
+}
+
+.name {
+  background-color: white;
+  border-style: solid;
+  display: inline-flex;
+  border-color: tomato;
+  margin-left: 5px;
+  padding: 2px;
+  font-size: 10px;
+  width: 150px;
+ 
+}
+li{
+  text-decoration: none;
+  display: block;
+}
+
+.Links{
+  font-size: 15px;
+}
+
+.input {
+  border-style: solid;
+  display: inline-flex;
+  border-color: tomato;
+  margin-left: 2px;
+  padding: 2px;
+  font-size: 10px;
+  width: 130px;
+}
+
+
+
+
